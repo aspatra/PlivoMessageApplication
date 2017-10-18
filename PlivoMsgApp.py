@@ -153,7 +153,7 @@ class PlivoMsgApplication(object):
 
 
 if __name__ == '__main__':
-    obj = PlivoMsgApplication('MANGUYYJKXMZI3NZK4NM','ODAxYjViNTZiMGU0NWMzZWY3MTdlYTAwYzYyODA0','6fa7a7be-b331-11e7-8edf-02ed609bd62b')
+    obj = PlivoMsgApplication('MANGUYY**********','ODAxYjViNTZiMG***********************','6fa7a7be-b331-11e7-8edf-02ed609bd62b')
     #obj.auth()
     obj.send_message('+1 540-253-1898','+1 213-431-0959','Testing Api')
     #obj.get_message('46f2c0d6-b365-11e7-b886-067c5485c240')
